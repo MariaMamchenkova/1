@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.11" apprev="18043" start="node24">
+  <panorama id="node24" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="1.08891" levelingpitch="-0.342697" levelbias="0.400" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="350" fovmode="0">
+      <start tilt="-0.34" fov="75" pan="-130.39" projection="4"/>
+      <flyin tilt="-3.03" fov="120" pan="-139.4" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="" tags="" description="" author="" datetime="29.04.2019 9:53" latitude="" customnodeid="" nodeid="node24" altitude="0.00" source="" info="" title="" heading="350" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media>
+      <image rotx="0.000" id="Element02" stretch="1.000" tilt="-0.970" roty="0.000" clickmode="0" height="1000" fov="30.000" width="1000" handcursor="0" pan="-136.520" rotz="0.000">
+        <source url="media/icons-depart-08-physics.png"/>
+      </image>
+      <image rotx="-5.000" id="Element03" stretch="1.000" tilt="-4.670" roty="5.000" clickmode="1" height="3508" fov="26.970" width="2480" handcursor="0" pan="-30.420" rotz="1.000">
+        <source url="media/st_FFIT plakat.jpg"/>
+      </image>
+      <image rotx="-4.000" id="Element01" stretch="1.000" tilt="-3.310" roty="6.000" clickmode="1" height="834" fov="72.990" width="1190" handcursor="0" pan="-302.040" rotz="1.000">
+        <source url="media/abit.jpg"/>
+      </image>
+    </media>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node32" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="350" fovmode="0">
+      <start tilt="-7.02" fov="91.29" pan="-26.66" projection="4"/>
+      <flyin tilt="-16.73" fov="120" pan="-25.34" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="Конференцзал корпуса №5 прошел полную модернизацию в 2019 году. Обородован для проведения локальных и дистанционных собраний и конференций любого уровня.&#xa;&#xa;Университетом установлены тесные научные связи по выполнению научно-исследовательских работ с Россией, Украиной, Литвой, Китаем, Кореей, Финляндией, Швейцарией и другими странами. Связи с учебными и научными центрами мира по выполнению НИР постоянно расширяются. В 2017 году выполнялось 24 НИР в рамках международного сотрудничества, в том числе 12 – с Российской Федерацией, 6 – с КНР, 2 – с Индией, по 1 – с Молдовой, Румынией, Украиной и Арменией.&#xa;&#xa;Ведущая роль ГГУ имени Ф. Скорины в развитии научных исследований выражается в организации и проведении международных, республиканских и областных научных конференций. В 2017 году университет выступил инициатором и организатором 33 научных конференций, в том числе 13 студенческих." tags="лаборатории" description="Конференцзал" author="" datetime="29.04.2019 12:44" latitude="" customnodeid="" nodeid="node32" source="" info="" title="2-11" heading="350" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01">
+      <clip cliptitle="Clip01" transitiontype="0" animtitle="Animation01" nodeid="" nextclipstartview="0/0/70/4" nextclipnodeid="node2" animtype="0" nextcliptitle="Clip01" length="100">
+        <keyframe type="0" additionaltrackid="" time="0" value="9.93" transitiontime="0" valuestring="" property="0"/>
+        <keyframe type="0" additionaltrackid="" time="0" value="-4.9" transitiontime="0" valuestring="" property="1"/>
+        <keyframe type="0" additionaltrackid="" time="0" value="75" transitiontime="0" valuestring="" property="2"/>
+        <keyframe type="0" additionaltrackid="" time="0" value="4" transitiontime="50" valuestring="" property="3"/>
+      </clip>
+    </animation>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node44" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="0.477898" levelingpitch="-9.662459999999999" levelbias="0.400" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-7.02" fov="91.29" pan="2.34" projection="4"/>
+      <flyin tilt="-17.97" fov="83.5" pan="3.34" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="БЕЛЫЙ Владимир Алексеевич.&#xa;&#xa;Основатель и директор Института механики металлополимерных систем АН БССР, академик АН БССР, первый ректор Гомельского государственного университета им. Ф. Скорины (1969 – 1973).&#xa;&#xa;Основатель научной школы в области механики металлополимерных систем. В числе учеников академика Белого 17 докторов и свыше 50 кандидатов наук, в том числе два академика и два член-корреспондента." tags="лаборатории" description="Аудитория Белого В.А." author="" datetime="01.07.2019 10:32" latitude="" customnodeid="" nodeid="node44" source="" info="" title="2-25" heading="0" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node45" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="-0.327923" levelingpitch="-0.372492" levelbias="0.400" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-7.02" fov="91.29" pan="92.34" projection="4"/>
+      <flyin tilt="-11.67" fov="83.5" pan="93.82" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="БОКУТЬ Борис Васильевич&#xa;&#xa;Выдающийся белорусский физик и организатор науки, академик АН БССР,лауреат Государственной премии СССР, ректор Гомельского государственного университета им. Ф. Скорины (1973-1989 годы). &#xa;&#xa;Основатель научной школы в области кристаллооптики, нелинейной оптики и лазерной технологии. Среди многочисленных представителей его школы 8 докторов наук, в том числе один академик и один член-корреспондент Национальной академии наук Беларуси и более тридцати кандидатов наук." tags="лаборатории" description="Аудитория Бокутя Б.В." author="" datetime="01.07.2019 10:48" latitude="" customnodeid="" nodeid="node45" source="" info="" title="4-27" heading="0" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-7.02" fov="91.29" pan="30.34" projection="4"/>
+      <flyin tilt="-22.51" fov="86.22" pan="50.49" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="Вакуумное напыление применяют для создания на поверхности деталей, инструментов и оборудования функциональных покрытий — проводящих, изолирующих, износостойких, коррозионно-стойких, эрозионностойких, антифрикционных, антизадирных, барьерных и т. д Процесс используется для нанесения декоративных покрытий, например при производстве часов с позолотой и оправ для очков. Один из основных процессов микроэлектроники, где применяется для нанесения проводящих слоёв (металлизации). Вакуумное напыление используется для получения оптических покрытий: просветляющих, отражающих, фильтрующих.&#xa;&#xa;Материалами для напыления служат мишени из различных материалов, металлов (титана, алюминия, вольфрама, молибдена, железа, никеля, меди, графита, хрома), их сплавов, соединений (SiO2,TiO2,Al2O3). В технологическую среду может быть добавлен химически активный газ, например ацетилен (для покрытий, содержащих углерод); азот, кислород. Химическая реакция на поверхности подложки активируется нагревом, либо ионизацией и диссоциацией газа той или иной формой газового разряда.&#xa;&#xa;С помощью методов вакуумного напыления получают покрытия толщиной от нескольких ангстрем до нескольких микрон, обычно после нанесения покрытия поверхность не требует дополнительной обработки." tags="лаборатории" description="Лаборатория лазерного вакуумного напыления" author="" datetime="13.04.2013 13:53" latitude="" customnodeid="" nodeid="node2" source="" info="" title="1-05" heading="0" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media>
+      <image rotx="0.000" id="Element01" stretch="1.000" tilt="-17.480" roty="-7.000" clickmode="0" height="302" fov="4.040" width="302" handcursor="0" pan="-318.450" rotz="0.000">
+        <source url="media/pl_blue.png"/>
+      </image>
+    </media>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01">
+      <clip cliptitle="Clip01" transitiontype="0" animtitle="Animation01" nodeid="" nextclipstartview="9.93/-4.9/75/4" nextclipnodeid="node32" animtype="0" nextcliptitle="Clip01" length="100">
+        <keyframe type="0" additionaltrackid="" time="0" value="0" transitiontime="0" valuestring="" property="0"/>
+        <keyframe type="0" additionaltrackid="" time="0" value="0" transitiontime="0" valuestring="" property="1"/>
+        <keyframe type="0" additionaltrackid="" time="0" value="70" transitiontime="0" valuestring="" property="2"/>
+        <keyframe type="0" additionaltrackid="" time="0" value="4" transitiontime="100" valuestring="" property="3"/>
+      </clip>
+    </animation>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node34" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="350" fovmode="0">
+      <start tilt="-8.06" fov="91.29" pan="21.57" projection="4"/>
+      <flyin tilt="-10.64" fov="83.5" pan="-18.09" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="Вакуумно-плазменные технологии относятся к наукоемким технологиям, позволяющим осуществлять обработку материалов и формировать структуры на наноразмерном уровне и по этому признаку могут быть отнесены к нанотехнологиям. &#xa;Реализация таких технологий требует высококвалифицированных кадров, хорошо ориентирующихся в вопросах физики и химии неравновесных плазменных процессов в объеме и на поверхности и умеющих разрабатывать и прогнозировать технологические процессы вакуумно-плазменной обработки самых различных материалов: металлов, полупроводников, диэлектриков, полимеров. " tags="лаборатории" description="Лаборатория физики вакуумно-плазменных процессов" author="" datetime="29.04.2019 15:32" latitude="" customnodeid="" nodeid="node34" source="" info="" title="1-07" heading="350" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media>
+      <image rotx="0.000" id="Element01" stretch="1.000" tilt="-10.430" roty="26.000" clickmode="0" height="408" fov="7.580" width="728" handcursor="0" pan="-23.220" rotz="0.000">
+        <source url="media/107.png"/>
+      </image>
+    </media>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input height="2959" leveltilesize="510" width="2959" levelbiashidpi="1.000" levelingroll="4.00516" levelingpitch="-9.314769999999999" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2959" width="2959" predecode="0"/>
+      <level preload="0" height="1479" width="1479" predecode="0"/>
+      <level preload="0" height="739" width="739" predecode="0"/>
+      <level preload="1" height="369" width="369" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-16.32" fov="45.6" pan="-78.79" projection="4"/>
+      <flyin tilt="-13.43" fov="83.5" pan="-7.53" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="Лазерные технологии - это совокупность способов обработки, изменения состояния, свойств и формы материала и полуфабриката, осуществляемых посредством лазерного излучения. В большинстве процессов лазерных технологий используется термическое действие лазерного луча, вызываемое поглощением энергии светового потока в обрабатываемом материале. Эффективность лазерных технологий обусловлена высокой плотностью потока энергии лазерного излучения в зоне обработки, возможностью фокусировки излучения с помощью оптических систем в световой пучок (луч) диаметром в сотые доли микрон, возможностью ведения технологических процессов в любой прозрачной среде (в вакууме, газе, жидкости, твёрдом теле), малой зоной прогрева, обеспечиваемой кратковременным воздействием излучения, а также возможностью бесконтактной подачи энергии к зоне обработки в замкнутом объёме через прозрачные стенки или специальные окна в непрозрачной оболочке." tags="лаборатории" description="Лаборатория лазерной технологии" author="" datetime="13.04.2013 12:46" latitude="" customnodeid="" nodeid="node4" source="" info="" title="1-12" heading="0" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media>
+      <image rotx="-3.000" id="Element01" stretch="1.000" tilt="-24.680" roty="7.000" clickmode="0" height="368" fov="4.604" width="339" handcursor="0" pan="-17.750" rotz="-4.000">
+        <source url="media/1-12.png"/>
+      </image>
+    </media>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node49" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="350" fovmode="0">
+      <start tilt="0" fov="75" pan="88.85" projection="4"/>
+      <flyin tilt="-9.12" fov="83.5" pan="97.67" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="" tags="лаборатории" description="Лаборатория компьютерой безопасности" author="" datetime="22.03.2021 10:08" latitude="" customnodeid="" nodeid="node49" source="" info="" title="3-11" heading="350" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node35" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="350" fovmode="0">
+      <start tilt="-3.25" fov="75" pan="-69.12" projection="4"/>
+      <flyin tilt="-16.55" fov="83.5" pan="63.68" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="Система контроля и управления доступом, СКУД — совокупность программно-аппаратных технических средств безопасности, имеющих целью ограничение и регистрацию входа-выхода объектов (людей, транспорта) на заданной территории через «точки прохода»: двери, ворота, КПП.&#xa;&#xa;Основная задача — управление доступом на заданную территорию (кого пускать, в какое время и на какую территорию), включая также ограничение доступа на заданную территорию и идентификация лица, имеющего доступ на заданную территорию.&#xa;Дополнительные задачи:&#xa;- учёт рабочего времени;&#xa;- расчет заработной платы (при интеграции с системами бухгалтерского учёта);&#xa;- ведение базы персонала / посетителей;&#xa;- интеграция с системой безопасности, например:&#xa; - с системой видеонаблюдения для совмещения архивов событий систем;&#xa; - с системой охранной сигнализации (СОС);&#xa; - с системой пожарной сигнализации (СПС) для получения информации о состоянии пожарных извещателей, автоматического разблокирования эвакуационных выходов и закрывания противопожарных дверей в случае пожарной тревоги.&#xa;&#xa;На особо ответственных объектах сеть устройств СКУД выполняется физически несвязанной с другими информационными сетями." tags="лаборатории" description="Лаборатория электронных систем безопасности" author="" datetime="30.04.2019 10:22" latitude="" customnodeid="" nodeid="node35" source="" info="" title="3-15" heading="350" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media>
+      <image rotx="0.000" id="Element01" stretch="1.000" tilt="3.400" roty="0.000" clickmode="0" height="250" fov="46.730" width="445" handcursor="0" pan="-66.210" rotz="0.000">
+        <source url="media/3-15.png"/>
+      </image>
+    </media>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node39" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="350" fovmode="0">
+      <start tilt="0" fov="75" pan="-90" projection="4"/>
+      <flyin tilt="-21.66" fov="83.5" pan="138.27" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="Метрология — наука об измерениях, методах и средствах обеспечения их единства и способах достижения требуемой точности. Предметом метрологии является извлечение количественной информации о свойствах объектов с заданной точностью и достоверностью; нормативная база для этого — метрологические стандарты.&#xa;Цели и задачи метрологии:&#xa;- создание общей теории измерений;&#xa;- образование единиц физических величин и систем единиц;&#xa;- разработка и стандартизация методов и средств измерений, методов определения точности измерений, основ обеспечения единства измерений и единообразия средств измерений (так называемая «законодательная метрология»);&#xa;- создание эталонов и образцовых средств измерений, поверка мер и средств измерений. Приоритетной подзадачей данного направления является выработка системы эталонов на основе физических констант.&#xa;Также метрология изучает развитие системы мер, денежных единиц и счёта в исторической перспективе." tags="лаборатории" description="Лаборатория метрологии и стандартизации" author="" datetime="30.04.2019 10:24" latitude="" customnodeid="" nodeid="node39" source="" info="" title="3-17" heading="350" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node36" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="-0.467579" levelingpitch="-1.03699" levelbias="0.400" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="350" fovmode="0">
+      <start tilt="0" fov="75" pan="-90" projection="4"/>
+      <flyin tilt="-6.31" fov="83.5" pan="-109.85" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="Специальность &quot;Программируемые мобильные системы&quot; ориентированна главным образом на программирование и разработку сопутствующих приложений для встроенных мобильных систем. &#xa;Для подготовки высококвалифицированных специалистов в данной области используются самые современные технические и информационные возможности лабораторий физического факультета.&#xa;&#xa;За время обучения на специальности &quot;Программируемые мобильные системы&quot; студенты получат знания по: &#xa;- основам алгоритмизации и программированию; &#xa;- технологиям разработки программного обеспечения мобильных электронных систем;&#xa;- технологиям разработки Интернет-приложений; &#xa;- языкам программирования встроенных микропроцессорных систем; &#xa;- архитектуре микроконтроллеров и их программированию для мобильных электронных систем; &#xa;- новейшим операционным системам и системному программированию." tags="лаборатории" description="Лаборатория программирования мобильных систем" author="" datetime="30.04.2019 9:55" latitude="" customnodeid="" nodeid="node36" source="" info="" title="3-23-2019" heading="350" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media>
+      <image rotx="4.000" id="Element01" stretch="1.000" tilt="12.300" roty="-3.000" clickmode="0" height="270" fov="16.809" width="480" handcursor="0" pan="-106.550" rotz="-1.000">
+        <source url="media/3-23.png"/>
+      </image>
+    </media>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node33" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="0.680154" levelingpitch="0.07107819999999999" levelbias="0.400" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="350" fovmode="0">
+      <start tilt="4.22" fov="75" pan="140.02" projection="4"/>
+      <flyin tilt="0" fov="83.5" pan="133.68" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="Первый в Республике Беларусь Авторизованный центр обучения специалистов по применению оборудования компании D-Link создан на базе факультета физики и информационных технологий 17 января 2017 года.&#xa;&#xa;У студентов факультета физики и информационных технологий УО «Гомельский государственный университет имени Ф. Скорины» есть уникальная возможность пройти сертификационные курсы Международной программы обучения: &#xa;- «Основы передачи и коммутации данных в компьютерных сетях»&#xa;- «Основы беспроводных сетей Wi-Fi» &#xa;- «Технологии коммутации и маршрутизации современных сетей Ethernet»." tags="лаборатории" description="Авторизованный центр обучения компании D-Link" author="" datetime="30.04.2019 9:58" latitude="" customnodeid="" nodeid="node33" source="" info="" title="3-29" heading="350" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media>
+      <image rotx="-11.000" id="Element01" stretch="1.000" tilt="-4.230" roty="1.000" clickmode="0" height="312" fov="19.955" width="495" handcursor="0" pan="-227.530" rotz="0.000">
+        <source url="media/3-29.png"/>
+      </image>
+    </media>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node28" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="350" fovmode="0">
+      <start tilt="0" fov="75" pan="82.62" projection="4"/>
+      <flyin tilt="-11.58" fov="83.5" pan="87.25" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="Гомельский центр разработок международного холдинга IBA Group — IBA Gomel (Иностранное унитарное предприятие «ИВА-Гомель») — был создан в 2001 году на территории свободной экономической зоны «Гомель-Ратон».&#xa;&#xa;Целью создания предприятия стало привлечение богатого потенциала ИТ-разработчиков  гомельского региона к созданию современных программных продуктов для стран мирового сообщества.&#xa;&#xa;Совместная лаборатория ИВА-ГГУ для студентов специальности АСОИ открыта в 2003 году.&#xa;&#xa;В 2012 году компания IBA Gomel Park удостоена награды Национального конкурса «Золотой Байт» в номинации «Лучший региональный центр разработки ПВТ».&#xa;&#xa;Основные направления деятельности:&#xa;1. Проектирование, разработка и сопровождение&#xa;2. Создание и развитие интегрированных систем управления предприятием на базе решений SAP&#xa;3. Миграция программных продуктов между разнообразными платформами и средами&#xa;4. Проектирование и администрирование баз данных (DB2, Oracle, MS SQL Server)&#xa;5. Разработка и внедрение BI-решений по отчетности и анализу данных&#xa;6. Разработка облачных сервисов по управлению НСИ (MDM, MDG), в том числе&#xa;7. Банковские технологии." tags="лаборатории" description="Лаборатория ИВА-Гомель-Парк для специальности АСОИ" author="" datetime="23.03.2021 11:28" latitude="" customnodeid="" nodeid="node28" source="" info="" title="4-08" heading="350" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media>
+      <image rotx="-6.000" id="Element01" stretch="1.000" tilt="7.890" roty="11.000" clickmode="0" height="495" fov="14.984" width="720" handcursor="0" pan="-351.840" rotz="-1.000">
+        <source url="media/4-08.png"/>
+      </image>
+    </media>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node29" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="-0.434477" levelingpitch="2.16458" levelbias="0.400" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="350" fovmode="0">
+      <start tilt="1.95" fov="75" pan="-178.14" projection="4"/>
+      <flyin tilt="-14.14" fov="83.5" pan="153.4" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="Cisco — американская транснациональная компания, разрабатывающая и продающая сетевое оборудование, предназначенное в основном для крупных организаций и телекоммуникационных предприятий.&#xa;&#xa;Одной из особенностей бизнес-модели компании стала многоуровневая разветвлённая система сертификации инженеров по компьютерным сетям. Благодаря тому, что экзамены этой системы проверяют знание не только продукции Cisco, но и знание сетевых технологий и протоколов, многие организации, даже работающие на сетевом оборудовании других фирм, признают ценность профессиональных сертификатов Cisco.&#xa;&#xa;Лаборатория сетевого оборудования Cisco обеспечивает работу Cisco Networkig Academy Gomel State University.&#xa;Студенты специальностей факультета проходят обучение по учебным курсам &quot;IT Essential&quot;, &quot;CCNA Routing and Switching&quot;, &quot;CCNA Security&quot;, &quot;PCAP: Основы программирования в Python&quot; и другие.&#xa;&#xa;Лаборатория организована в 2007 году." tags="лаборатории" description="Лаборатория Cisco Networking Academy" author="" datetime="29.04.2019 10:29" latitude="" customnodeid="" nodeid="node29" source="" info="" title="4-12" heading="350" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media>
+      <image rotx="-2.000" id="Element01" stretch="1.000" tilt="9.950" roty="-11.000" clickmode="0" height="251" fov="21.718" width="480" handcursor="0" pan="-192.350" rotz="4.000">
+        <source url="media/4-12.png"/>
+      </image>
+    </media>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node48" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="350" fovmode="0">
+      <start tilt="0" fov="75" pan="-174.58" projection="4"/>
+      <flyin tilt="-11.38" fov="83.5" pan="66.19" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="" tags="лаборатории" description="Лаборатория Training center EPAM" author="" datetime="23.03.2021 8:25" latitude="" customnodeid="" nodeid="node48" source="" info="" title="4-16" heading="350" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node46" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-20.1" fov="83.5" pan="73.4" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="Структура вычислительной системы - это совокупность элементов вычислительной системы и их связей. В качестве элементов ВС выступают отдельные персональные помпьютериы, мобильные и/или специализированные устройства.&#xa;Основываясь на законе Мура, процессорные технологии ускоряют миниатюризацию устройств, обеспечивают рост их быстродействия и снижение энергопотребления. Расширяются масштабы и потенциал технологий, начиная с облачных инфраструктур и «Интернета вещей» и кончая персональными мобильными вычислениями и технологиями для носимых устройств.&#xa;&#xa;Лаборатория прошла полную модернизацию в 2019 году." tags="лаборатории" description="Лаборатория вычислительных систем" author="" datetime="" latitude="" customnodeid="" nodeid="node46" source="" info="" title="4-17" heading="0" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node30" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="350" fovmode="0">
+      <start tilt="0" fov="75" pan="-90" projection="4"/>
+      <flyin tilt="-14.55" fov="83.5" pan="-1.31" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="Мультимедиа – это набор технологий, позволяющих с помощью программного обеспечения и технических средств обрабатывать на компьютере обычную информацию (текст и графику), а также звук, фотографию, анимацию (движущиеся образы) и видео.&#xa;&#xa;Студенты специальности АСОИ получают навыки обработки медиаматериалов в 2D и 3D режимах отображения, осваивают способы построения систем дополненной и виртуальной реальности.&#xa;&#xa;Лаборатория действует с 2005 года." tags="лаборатории" description="Лаборатория технологий мультимедиа" author="" datetime="29.04.2019 10:39" latitude="" customnodeid="" nodeid="node30" source="" info="" title="4-18" heading="350" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media>
+      <image rotx="4.000" id="Element01" stretch="1.000" tilt="-3.160" roty="-2.000" clickmode="0" height="750" fov="15.405" width="500" handcursor="0" pan="-94.150" rotz="90.000">
+        <source url="media/4-18 (2).png"/>
+      </image>
+    </media>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node43" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="350" fovmode="0">
+      <start tilt="0" fov="75" pan="-2.24" projection="4"/>
+      <flyin tilt="-14.55" fov="83.5" pan="-1.31" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="Идея создания современной лаборатории STEM-Hub на базе крупнейшего университета Гомельщины принадлежит Ассоциации по содействию развитию образовательных инициатив в области точных наук и высоких технологий «Образование для будущего».&#xa;&#xa;Здесь юные инженеры под руководством опытных преподавателей, представителей инженерных компаний и предпринимателей смогут реализовать свои инженерные идеи, создать работающий прототип и получат возможность дальнейшей работы над удачными проектами. STEM-Hub впервые открылся в 2020 году на базе учреждения высшего образования, до этого времени подобные центры действовали только на базе лицеев, гимназий и школ. " tags="лаборатории" description="Лаборатория STEM HUB" author="" datetime="23.03.2021 8:25" latitude="" customnodeid="" nodeid="node43" source="" info="" title="4-28" heading="350" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="75" pan="-21.83" projection="4"/>
+      <flyin tilt="-23.07" fov="83.5" pan="-108.06" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="Оптоэлектроника – область науки и техники, связанная с исследованием процессов взаимодействия оптического излучения с веществом и созданием оптико-электронных приборов, устройств и систем, в которых эти эффекты используются для генерации, передачи, обработки, хранения и отображения информации. &#xa;&#xa;Настоящее время характеризуется бурным развитием научных исследований и разработок новых изделий оптоэлектроники во всех промышленно развитых странах. Такая активность в этой сфере связана с разработкой ряда принципиально важных прецизионных технологий изготовления лазеров, оптических запоминающих устройств, интегральных оптических схем и т. д. &#xa;Такие изделия оптоэлектроники как, оптико-электронные приборы, устройства и системы характеризуются уникальной функциональной широтой и эффективно используются в информационных системах для генерации, преобразования, передачи, хранения и отображения информации." tags="лаборатории" description="Лаборатория оптоэлектроники" author="" datetime="23.03.2021 8:25" latitude="" customnodeid="" nodeid="node13" source="" info="" title="4-31" heading="0" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node47" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="350" fovmode="0">
+      <start tilt="1.16" fov="75" pan="47.71" projection="4"/>
+      <flyin tilt="-9.54" fov="83.5" pan="20.49" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="" tags="лаборатории" description="Класс робототехники" author="" datetime="23.03.2021 11:28" latitude="" customnodeid="" nodeid="node47" source="" info="" title="5-6" heading="350" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <input height="1499" leveltilesize="510" width="1499" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1499" width="1499" predecode="0"/>
+      <level preload="0" height="749" width="749" predecode="0"/>
+      <level preload="1" height="374" width="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="0" fov="83.5" pan="-173.36" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="Ядерная физика — раздел физики, изучающий структуру и свойства атомных ядер, а также их столкновения (ядерные реакции).&#xa;&#xa;Задачи, возникающие в ядерной физике, — это типичный пример задач нескольких тел. Ядра состоят из нуклонов (протонов и нейтронов), и в типичных ядрах содержатся десятки и сотни нуклонов. Это число слишком велико для точно решаемых задач, но всё же слишком мало́ для того, чтобы можно было пользоваться методами статистической физики. Это и привело к большому разнообразию различных моделей атомных ядер." tags="лаборатории" description="Лаборатория ядерной физики" author="" datetime="10.04.2013 15:23" latitude="" customnodeid="" nodeid="node18" source="" info="" title="6-17" heading="0" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node40" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="350" fovmode="0">
+      <start tilt="0" fov="75" pan="-90" projection="4"/>
+      <flyin tilt="-3.86" fov="83.5" pan="-153.84" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="В декабре 2015 года во время визита в составе деловых кругов Гомельской области в провинцию Цзянсу бывшего ректора университета Рогачева А.В. от руководства Нанкинского университета науки и технологий поступило предложение создать в Гомельском государственном университете имени Франциска Скорины Институт Конфуция, что будет способствовать выполнению концепции КНР « Один пояс — один путь». &#xa;&#xa;Были определены следующие направления деятельности Института Конфуция: открыть подготовку студентов–филологов по китайскому языку; обучать китайскому языку по утвержденным программам; оказывать методическую помощь в реализации совместных образовательных проектов, проводимых с участием китайских высших учебных заведений (Нанкинского университета науки и технологий, Янчжоуского университета, Педагогического университета Цзянсу, Тайюаньского технологического университета, Сюйджоуского технологического университета); проводить конкурсы, научные конференции по изучению культурного наследия Китайской Народной Республики, связей Республики Беларусь и КНР; проводить «Дни Китайской Народной Республики», научно–просветительскую работу и популяризации знаний в области китаеведения; организовывать студенческие фестивали и другие культурно–образовательные мероприятия, посвященные Китайской Народной Республике." tags="лаборатории" description="Методический кабинет Института Конфуция" author="" datetime="" latitude="" customnodeid="" nodeid="node40" source="" info="" title="3-16" heading="350" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node41" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="350" fovmode="0">
+      <start tilt="0" fov="75" pan="-90" projection="4"/>
+      <flyin tilt="-9.85" fov="83.5" pan="-8.74" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="В декабре 2015 года во время визита в составе деловых кругов Гомельской области в провинцию Цзянсу бывшего ректора университета Рогачева А.В. от руководства Нанкинского университета науки и технологий поступило предложение создать в Гомельском государственном университете имени Франциска Скорины Институт Конфуция, что будет способствовать выполнению концепции КНР « Один пояс — один путь». &#xa;&#xa;Были определены следующие направления деятельности Института Конфуция: открыть подготовку студентов–филологов по китайскому языку; обучать китайскому языку по утвержденным программам; оказывать методическую помощь в реализации совместных образовательных проектов, проводимых с участием китайских высших учебных заведений (Нанкинского университета науки и технологий, Янчжоуского университета, Педагогического университета Цзянсу, Тайюаньского технологического университета, Сюйджоуского технологического университета); проводить конкурсы, научные конференции по изучению культурного наследия Китайской Народной Республики, связей Республики Беларусь и КНР; проводить «Дни Китайской Народной Республики», научно–просветительскую работу и популяризации знаний в области китаеведения; организовывать студенческие фестивали и другие культурно–образовательные мероприятия, посвященные Китайской Народной Республике." tags="лаборатории" description="Лаборатория Института Конфуция" author="" datetime="" latitude="" customnodeid="" nodeid="node41" source="" info="" title="3-17" heading="350" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node42" hideabout="1">
+    <input height="1728" leveltilesize="510" width="1728" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="1728" width="1728" predecode="0"/>
+      <level preload="0" height="864" width="864" predecode="0"/>
+      <level preload="1" height="432" width="432" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="350" fovmode="0">
+      <start tilt="0" fov="75" pan="-90" projection="4"/>
+      <flyin tilt="-8.08" fov="83.5" pan="-20.91" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fovstereographic="270" fov="120" pan="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="В декабре 2015 года во время визита в составе деловых кругов Гомельской области в провинцию Цзянсу бывшего ректора университета Рогачева А.В. от руководства Нанкинского университета науки и технологий поступило предложение создать в Гомельском государственном университете имени Франциска Скорины Институт Конфуция, что будет способствовать выполнению концепции КНР « Один пояс — один путь». &#xa;&#xa;Были определены следующие направления деятельности Института Конфуция: открыть подготовку студентов–филологов по китайскому языку; обучать китайскому языку по утвержденным программам; оказывать методическую помощь в реализации совместных образовательных проектов, проводимых с участием китайских высших учебных заведений (Нанкинского университета науки и технологий, Янчжоуского университета, Педагогического университета Цзянсу, Тайюаньского технологического университета, Сюйджоуского технологического университета); проводить конкурсы, научные конференции по изучению культурного наследия Китайской Народной Республики, связей Республики Беларусь и КНР; проводить «Дни Китайской Народной Республики», научно–просветительскую работу и популяризации знаний в области китаеведения; организовывать студенческие фестивали и другие культурно–образовательные мероприятия, посвященные Китайской Народной Республике." tags="Pano2019" description="Лингофонный кабинет Института Конфуция" author="" datetime="" latitude="" customnodeid="" nodeid="node42" source="" info="" title="3-18" heading="350" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" backgroundalpha="1" borderradius="1" height="20" width="180" background="1" enabled="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" border="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" type="crossdissolve" zoomspeed="2" zoomout="0" enabled="1" zoomoutpause="1" softedge="0" blendtime="0.2" zoomafterinfov="90" zoomafteroutfov="20" zoomfov="20" blendcolor="0x000000"/>
+    <autorotate noderandom="1" startloaded="0" nodefilter="" useanimation="0" enabled="1" nodedelay="0.00" speed="0.100" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" speedwheel="1" hideabout="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" comment="" tags="" description="" author="" datetime="" latitude="" customnodeid="" nodeid="master" source="" info="" title="" heading="0" longitude=""/>
+  </masternode>
+</tour>
